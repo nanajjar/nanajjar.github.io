@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"BookStore","l":"Book"},{"p":"BookStore","l":"BookStore"},{"p":"BookStore","l":"BookStoreDriver"},{"p":"BookStore","l":"CD"},{"p":"BookStore","l":"DVD"},{"p":"BookStore","l":"Member"},{"p":"BookStore","l":"PremiumMember"}];updateSearchResults();
